@@ -1,0 +1,66 @@
+.name {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    align-items: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 475%;
+    text-align: center;
+    line-height: 1.5;
+    background-color: #ff8040;
+    color: white;
+    font-weight: 500;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 60%;
+    font-weight: 300;
+}
+
+.about {
+    margin: 10%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 130%;
+    color: grey;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 150%;
+    font-weight: 500;
+}
+
+.downloads {
+    padding: 10%;
+    font-family: 'Poppins', sans-serif;
+    background-color: #e2dcdc;
+    font-size: 200%;
+    color: grey;
+}
+
+.contact {
+    font-family: 'Poppins', sans-serif;
+    margin: 10%;
+    font-size: 150%;
+    color: grey;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+.footer {
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;
+    color: grey;
+    background-color: #e2dcdc;
+    padding: 2%;
+    text-align: center;
+}
