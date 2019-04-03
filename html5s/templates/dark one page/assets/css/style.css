@@ -1,0 +1,68 @@
+.title {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    align-items: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 475%;
+    text-align: center;
+    line-height: 1.5;
+    background-color: #555352;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 60%;
+    font-weight: 300;
+}
+
+.about {
+    padding: 10%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 130%;
+    color: #e0dbdb;
+    font-weight: 300;
+    background-color: #474544;
+}
+
+h3 {
+    font-size: 150%;
+    font-weight: 500;
+}
+
+.downloads {
+    padding: 10%;
+    font-family: 'Poppins', sans-serif;
+    background-color: #555352;
+    font-size: 200%;
+    color: #e0dbdb;
+}
+
+.contact {
+    font-family: 'Poppins', sans-serif;
+    padding: 10%;
+    font-size: 150%;
+    color: #e0dbdb;
+    background-color: #474544;
+}
+
+a {
+    color: #e0dbdb;
+    text-decoration: none;
+}
+
+.footer {
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;
+    color: #e0dbdb;
+    background-color: #555352   ;
+    padding: 2%;
+    text-align: center;
+}
