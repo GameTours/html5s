@@ -7,5 +7,6 @@ Current release date: Unknown
 FULL LIST OF TEMPLATES:
 •	Colors One Page
 •	Dark One Page
+•	Photography Showcase
 
 If you have a question then please email me at joe.young8769 (at) gmail.com.
